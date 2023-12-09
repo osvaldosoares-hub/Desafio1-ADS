@@ -1,1 +1,1 @@
-exemplo para o professor
+exemplo para o professor com a nova issue 1 gerenciamento de novos projetos 
