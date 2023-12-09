@@ -1,1 +1,1 @@
-exemplo para o professor 
+exemplo para o professor terminando o gerenciamento projetos para equipes especificas
